@@ -1,0 +1,26 @@
+- name: Economics
+  logo_credit: Vectors Market from the Noun Project
+  featured: true
+- name: Labor
+  logo_credit: Vectors Market from the Noun Project
+  featured: true
+- name: Population
+  logo_credit: Vectors Market from the Noun Project
+  featured: true
+- name: Housing
+  logo_credit: Sergey Patutin from the Noun Project
+  featured: true
+- name: Education
+  logo_credit: Sergey Patutin from the Noun Project
+  featured: true
+- name: Environment
+  featured: true
+- name: Health
+  logo_credit: Timothy Miller from the Noun Project
+  featured: true
+- name: Federal
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: API
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
