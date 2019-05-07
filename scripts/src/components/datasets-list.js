@@ -33,7 +33,7 @@ export default class {
 
     // // Dataset count
     const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
-    const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix;
+    const datasetsCountMarkup = filteredDatasets.length + ' result' + datasetSuffix;
     setContent(elements.datasetsCount, datasetsCountMarkup)
 
     // Search datasets listener
@@ -47,7 +47,7 @@ export default class {
       setContent(elements.datasetsItems, resultsMarkup)
 
       // Dataset count
-      const resultsCountMarkup = results.length + ' datasets'
+      const resultsCountMarkup = results.length + ' results'
       setContent(elements.datasetsCount, resultsCountMarkup)
     })
   }

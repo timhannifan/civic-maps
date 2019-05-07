@@ -11,19 +11,17 @@ schema: default
 
 # Nav bar
 navigation:
-  - title: Data
-    url: /data/
-  - title: Sources
-    url: /sources/
+  - title: Maps
+    url: /maps/
 
 # Collections
 collections:
-  organizations:
-    output: true
-    permalink: /sources/:path/
+  # organizations:
+  #   output: true
+  #   permalink: /sources/:path/
   datasets:
     output: true
-    permalink: /data/:path/
+    permalink: /maps/:path/
 
 # Collections (cont'd)
 defaults:

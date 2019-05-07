@@ -201,3 +201,10 @@ dataset {
     text-transform: uppercase;
   }
 }
+
+    #map {
+      position: relative;
+      display: block;
+      height: 90vh;
+      width: 100%;
+    }
