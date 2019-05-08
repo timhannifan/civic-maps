@@ -1,19 +1,19 @@
 # civic-maps
 
 ## About
-The ability to create rich, useful maps is a critical skill for web developers, data scientists, and civic hackers. This site contains examples created with [https://docs.mapbox.com/mapbox-gl-js/api/] Mapbox GL JS.
+The ability to create rich, useful maps is a critical skill for web developers, data scientists, and civic hackers. This site contains examples created with  [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/).
 
 ## Usage
-To run this version locally or create your own map portfolio, clone this repo and run the execution script below. More instructions on how to set up  a JKAN/Jekyll instance can be found [https://jkan.io/] here.
+To run this version locally or create your own map portfolio, clone this repo and run the execution script below. More instructions on how to set up  a JKAN/Jekyll instance can be found  [here](https://jkan.io/).
 ```
 bundle exec jekyll serve
 ```
 	
 ## Credits
 
-	- [https://github.com/timwis/jkan] JKAN
-	-[https://docs.mapbox.com/help/tutorials/tilequery-healthy-food-finder] Mapbox Docs
-	-[https://jkan.io/] Heroku Free Tier
+	-  [JKAN](https://github.com/timwis/jkan)
+	- [Mapbox Docs](https://docs.mapbox.com/help/tutorials/tilequery-healthy-food-finder) 
+	- [Heroku Free Tier](https://www.heroku.com/free) 
 
 ## License
-MIT License (MIT)
+MIT 
