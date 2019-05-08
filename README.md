@@ -11,9 +11,9 @@ bundle exec jekyll serve
 	
 ## Credits
 
-	-  [JKAN](https://github.com/timwis/jkan)
-	- [Mapbox Docs](https://docs.mapbox.com/help/tutorials/tilequery-healthy-food-finder) 
-	- [Heroku Free Tier](https://www.heroku.com/free) 
+- [JKAN](https://github.com/timwis/jkan)
+- [Mapbox Docs](https://docs.mapbox.com/help/tutorials/tilequery-healthy-food-finder) 
+- [Heroku Free Tier](https://www.heroku.com/free) 
 
 ## License
 MIT 
